@@ -1,0 +1,1 @@
+This is the file I am going to encrypt using GPG encryption and ASCII armoured technique

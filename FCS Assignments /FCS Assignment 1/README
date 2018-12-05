@@ -1,0 +1,9 @@
+Instructions to run the code :-
+
+1. For the Q3a part, the name of the code file is Q3a.cpp. Simply run using the command 
+	g++ Q3a.cpp && ./a.out
+   The output of this code is given is Q3aPlain.txt		
+   
+2. For the Q3b part, the name of the code file is Q3b.cpp. Simply run using the command 
+	g++ Q3b.cpp && ./a.out
+   The output of this code is given is Q3bPlain.txt		
